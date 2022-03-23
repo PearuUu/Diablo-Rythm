@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 59cecd4cfc085594da1a111f42e71812
+  - enabled: 1
+    path: Assets/Scenes/Song Select.unity
+    guid: 3b6f74561ab500248b48b1909bb35f6b
+  - enabled: 1
+    path: Assets/Scenes/Black or white.unity
+    guid: 561bb008df2774c42849ab40edb9177b
+  - enabled: 1
+    path: Assets/Scenes/Ranking.unity
+    guid: b3d7380ea62a6934abfb147767323a8e
+  m_configObjects: {}

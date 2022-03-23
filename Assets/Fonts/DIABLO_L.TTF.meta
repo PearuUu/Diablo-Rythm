@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 09c103d54d7cc93429c2b6a77e7e2fac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Diablo
+  fontNames:
+  - Diablo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1d04fc111580ae4fbc90ec824847828, type: 3}
+  - {fileID: 12800000, guid: 311508c95a0b9fb4ebe0ba186073b130, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
